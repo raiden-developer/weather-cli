@@ -1,0 +1,27 @@
+{
+  "name": "weather-learn-cli1",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "http://raiden-dev.ru/",
+  "repository": {
+    "type": "git",
+    "url": "http://raiden-dev.ru/"
+  },
+  "bugs": {
+    "url": "http://raiden-dev.ru/",
+    "email": "raiden226@list.ru"
+  }
+}
